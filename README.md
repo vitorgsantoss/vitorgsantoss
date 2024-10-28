@@ -1,6 +1,6 @@
 <h1>Hello there, my name is Vítor Santos</h1>
 <ul>
-  <li>Full Stack devoloper</li>
+  <li>Full-Stack devoloper</li>
   <li>Technologist in systems analysis and development at Fatec</li>
   <li>Learn more about Django</li>
 </ul>
