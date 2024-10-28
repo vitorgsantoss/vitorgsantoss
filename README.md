@@ -1,4 +1,4 @@
-<h1>Hello there, my name is Vítor Gabriel</h1>
+<h1>Hello there, my name is Vítor Santos</h1>
 <ul>
   <li>Full Stack devoloper</li>
   <li>Technologist in systems analysis and development at Fatec</li>
