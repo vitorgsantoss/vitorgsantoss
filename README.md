@@ -2,7 +2,7 @@
 <ul>
   <li>Full-Stack devoloper</li>
   <li>Technologist in systems analysis and development at Fatec</li>
-  <li>Learn more about Django</li>
+  <li>Learning more about Django</li>
 </ul>
 
 <div style="display: inline_block"><br>
