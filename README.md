@@ -2,14 +2,16 @@
 <ul>
   <li>Full-Stack devoloper</li>
   <li>Technologist in systems analysis and development at Fatec</li>
-  <li>Learning more about Django</li>
+  <li>Learning more about Django and JavaScript</li>
 </ul>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Vitor-dj" height="30" width="40" src="https://github.com/user-attachments/assets/29b4e191-b6aa-4120-980c-3e7f592800ba">
   <img align="center" alt="Vitor-py" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Vitor-py" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
   <img align="center" alt="Vitor-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Vitor-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  
   <img align="center" alt="Vitor-postgre" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
           
 </div>
