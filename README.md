@@ -21,7 +21,7 @@
 <div> 
   <a href = "mailto:vitor.santos800411@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/v%C3%ADtor-santos-86142423b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
+<a href = "https://portfolio-vitor-santos.netlify.app/"><img src="https://img.shields.io/badge/-Portfólio-%23333?style=for-the-badge&logo=portfolio&logoColor=white" target="_blank"></a>   
 </div>
 
 <!---
